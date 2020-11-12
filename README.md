@@ -1,4 +1,4 @@
-# waifu2x
+# waifu2x!!!
 
 Image Super-Resolution for Anime-style art using Deep Convolutional Neural Networks.
 And it supports photo.
